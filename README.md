@@ -2,7 +2,7 @@
 - I'm a pupil in China.
 - 👀 I’m interested in program.
 - 🌱 I’m currently learning how to write python code.
-- ⚡ Fun fact: I have a cat.
+- ⚡ A fact: I have a cat.
 
 <!---
 glue0822/glue0822 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
