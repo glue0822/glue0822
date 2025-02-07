@@ -2,7 +2,7 @@
 - I'm a pupil in China.
 - I’m interested in program.
 - I’m currently learning how to write C code and I understand a little python code.
-- A fact: I have a cat.
+- A fact: I have a cat,and its birthday is August,22th.
 - The computer I use for programming is windows.
 
 <!---
