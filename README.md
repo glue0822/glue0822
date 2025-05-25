@@ -1,6 +1,6 @@
-- Hi, I’m @glue0822.
-- I'm a pupil in China.
+- Hi, I’m *@glue0822*.
+- I'm a student in China.
 - I’m interested in program.
 - I’m currently learning how to write python code.
 - A fact: I have a cat,and its birthday is August,22nd.
-- The computer I use for programming is Windows.
+- The computer which I use for programming's OS is *Windows*.
