@@ -4,3 +4,4 @@
 - I’m currently learning how to write python code.
 - A fact: I have a cat,and its birthday is August,22nd.
 - The computer which I use for programming's OS is Windows.
+（以为GitHub不支持中文，用机翻写的，懒得改了）
